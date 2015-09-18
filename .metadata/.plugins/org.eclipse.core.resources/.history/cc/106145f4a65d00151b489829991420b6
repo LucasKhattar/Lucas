@@ -5,26 +5,28 @@ public class ForLoopGaunlent {
 	
 //	Single For-Loops
 //	Write a for loop to do each the following:
-//
-//	1. Display all numbers from 0 to 100
+
+
+	
 	public static void main(String[] args) {
 		for (int i = 100; i >= 0; i--) {
 			System.out.println(i);
 		}
 	 
 
-//	2. Display all numbers from 100 to 0
+
 		
 //	3. Display all even numbers from 2 to 100
+		
 //	4. Display all odd numbers from 1 to 99
-//	5. Display all numbers from 1 to 500. If the number is odd, print ÒoddÓ next to the number. If the number is even, print ÒevenÓ next to the number.
+//	5. Display all numbers from 1 to 500. If the number is odd, print ï¿½oddï¿½ next to the number. If the number is even, print ï¿½evenï¿½ next to the number.
 //		Ex:	1 odd
 //			2 even
 //			3 odd
 //			4 even
 //			5 odd...etc.
 //	6. Display all multiples of 7 from 0 to 777.
-//	7. Print all the years you were alive and how old you were in each. e.g. ÒIn 1979, i was 2 years old.Ó (for a really old person)
+//	7. Print all the years you were alive and how old you were in each. e.g. ï¿½In 1979, i was 2 years old.ï¿½ (for a really old person)
 //
 //	Nested For-Loops (a for loop inside of a for loop)
 //	Write a nested for loop to do the following:
